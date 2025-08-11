@@ -6,7 +6,7 @@
 ---
 
 ## 📊 Prozessübersicht
-![Ajvar-Flowchart](media/diagram.jpg)
+![Ajvar-Flowchart](media/diagram.png)
 
 ## 🛒 Zutaten
 - 🌶️ **Rote Paprika:** 10 kg
