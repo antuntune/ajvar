@@ -5,6 +5,9 @@
 
 ---
 
+## 📊 Prozessübersicht
+![Ajvar-Flowchart](media/diagram.jpg)
+
 ## 🛒 Zutaten
 - 🌶️ **Rote Paprika:** 10 kg
 - 🍆 **Auberginen:** 1 kg
